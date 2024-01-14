@@ -6,11 +6,12 @@ Neste projeto, foi aprimorado o código original, promovendo uma estrutura mais 
 Organizei as funcionalidades em um módulo chamado `file_handler`, utilizei o `with open` para garantir o correto manuseio de recursos em operações de leitura e escrita de arquivos, reduzi redundâncias, e mantive consistência na nomenclatura de variáveis e funções.
 Essas melhorias visam não apenas facilitar a compreensão do código, mas também promover boas práticas de programação e segurança cibernética responsável.
 
-## Links para os Arquivos:
+## Arquivos
 
-- [Código de Encriptação](encriptador.py)
-- [Código de Descriptografia](descriptador.py)
-- [Módulo `file_handler`](file_handler.py)
+- `encriptador.py`: Código de encriptação.
+- `descriptador.py`: Código de descriptografia.
+- `file_handler.py`: Módulo de manipulação de arquivos.
+- `teste.txt`: Arquivo de teste.
 
 ## Referência ao Autor Original
 
